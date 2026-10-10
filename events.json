@@ -1,0 +1,54 @@
+{
+  "events": {
+    "Africa Society": [
+      {
+        "event_name": "Volleyball match",
+        "date": "2026-10-12",
+        "location": "Hall B, Sports Centre"
+      }
+    ],
+    "Electronic & Electrical Engineering Society": [
+      {
+        "event_name": "Weekly Robotics Session — RADAR System",
+        "date": "2026-10-12",
+        "location": "Engineering Building Foyer"
+      },
+      {
+        "event_name": "Weekly Robotics Session — Swarm Robotics",
+        "date": "2026-10-12",
+        "location": "Engineering Building Foyer"
+      }
+    ],
+    "Sustainability Society": [
+      {
+        "event_name": "Run Club",
+        "date": "2026-10-12",
+        "location": "TBC"
+      },
+      {
+        "event_name": "Craft Corner – Soda Tabs",
+        "date": "2026-10-12",
+        "location": "TBC"
+      }
+    ],
+    "Philosophy Society": [
+      {
+        "event_name": "Coffee Morning: Nietzsche",
+        "date": "2026-10-12",
+        "location": "Red Room, Student Centre"
+      }
+    ],
+    "Draw Society UCD": [
+      {
+        "event_name": "Spooky Drawing Class",
+        "date": "2026-10-12",
+        "location": "TBC"
+      },
+      {
+        "event_name": "DrawSoc EGM",
+        "date": "2026-10-12",
+        "location": "TBC"
+      }
+    ]
+  }
+}
